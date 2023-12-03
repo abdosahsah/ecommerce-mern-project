@@ -1,9 +1,9 @@
 # E-Commerce-mern-project
-ecommerce project using Mern stack ( mongoDB, express js, react js, node js ) and using Redux library for state management
+E-Commerce project using Mern stack ( mongoDB, express js, react js, node js ) and Redux library for state management
 
 ## Features 💡
 
-Using Shorten URL, you can:
+E-Commerce MERN app, Provide you:
 
     Shopping Cart
     Product lists
